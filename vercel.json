@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Nucleophilic_Substitution_MicroTeaching.html"
+    }
+  ]
+}
